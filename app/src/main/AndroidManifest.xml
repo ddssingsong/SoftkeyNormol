@@ -4,20 +4,16 @@
 
     <application
         android:allowBackup="false"
-        android:icon="@drawable/ic_launcher"
-        android:label="@string/app_name" >
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name">
         <activity
-            android:name=".NormolActivity"
-            android:label="@string/app_name" >
+            android:name="cn.key.NormolActivity"
+            android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity
-            android:name=".NumberActivity"
-            android:label="@string/title_activity_number" >
         </activity>
     </application>
 
