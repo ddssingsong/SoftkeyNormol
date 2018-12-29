@@ -4,6 +4,7 @@ import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Context;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.text.InputType;
 import android.view.MotionEvent;
 import android.view.View;
@@ -14,7 +15,7 @@ import com.dds.softkeynormol.R;
 
 import cn.key.view.KeyboardNormal;
 
-public class NormolActivity extends Activity {
+public class NormolActivity extends AppCompatActivity {
     private Context ctx;
     private Activity act;
     private EditText edit;
