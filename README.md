@@ -5,8 +5,8 @@
 
 数字键盘
 
-![这里写图片描述](http://img.blog.csdn.net/20160414170121846) 
+![这里写图片描述](https://github.com/ddssingsong/SoftkeyNormol/blob/master/image/test1.png) 
 
 切换到字母键盘
 
-![这里写图片描述](http://img.blog.csdn.net/20160414170151573)
+![这里写图片描述](https://github.com/ddssingsong/SoftkeyNormol/blob/master/image/test2.png)
