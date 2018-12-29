@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, KeydemoActivity!</string>
+    <string name="app_name">Keydemo</string>
+    <string name="title_activity_main">自定义软键盘</string>
+    <string name="title_activity_number">数字键盘</string>
+    <string name="title_activity_stock">股票键盘</string>
+    <string name="key_ok">完成</string>
+    <string name="key_clear">清空</string>
+
+</resources>
